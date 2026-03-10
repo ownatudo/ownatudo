@@ -56,7 +56,7 @@
 <h2 align="center">📡 Conecte-se</h2>
 
 <div align="center">
-  <a href="https://discord.gg/seu-servidor"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" /></a>
+  <a href="http://discord.com/users/563720915473530890"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" /></a>
   <a href="https://github.com/ownatudo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" /></a>
 </div>
 
